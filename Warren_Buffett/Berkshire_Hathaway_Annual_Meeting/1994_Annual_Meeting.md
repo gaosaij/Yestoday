@@ -2560,25 +2560,37 @@ WARREN BUFFETT: With that, we will adjourn. And anyone who wants to stay around,
 
 PDF: [[500-投资与投资人/510-海外价值投资人/510.01-巴菲特与芒格/510.01.20-股东大会/510.01.21-Berkshire Hathaway Annual Meeting/19940425-1994 Annual Meeting (Afternoon Session).pdf|1994 Annual Meeting (Afternoon Session)]]
 
-## 1\. No comment on Guinness investment
+## 1\. No comment on Guinness investment</br>对健力士的投资不予置评
 
 WARREN BUFFETT: Zone 2 now. Well, I don’t know where zone 2 is, but we’ll — (laughs)
 
 AUDIENCE MEMBER: Do you feel basically the same about your investment in Guinness now as when you made the investment, in terms of the company?
 
+股东：你现在对健力士的投资感觉和当初投资健力士时一样吗?
+
 WARREN BUFFETT: Well, I wouldn’t like to comment on anything that we own, in terms of how we rate them as desirability or anything. I mean, whether it’s Coke or Gillette or anything that — we made decisions at a given time, at a given price, which you can figure out by looking at our purchases.
+
+巴菲特：我不想评论我们拥有的任何公司，比如我们如何评价它们是否合意。我的意思是，无论是可口可乐还是吉列，你都可以通过我们的到底是什么时候购买的、什么价格购买的或相关的任何信息，来判断我们的判断。
 
 But we may be buying or selling any of those securities right as we talk. And we simply don’t think it’s in the interest of Berkshire shareholders as a group to be talking about things that we could be buying or selling.
 
-## 2\. World Book’s sales slide: “I wish I knew the answer”
+但我们可能会随时买卖这些证券。我们认为，作为一个整体，谈论我们可以买卖的公司并不符合伯克希尔股东的利益。
+
+## 2\. World Book’s sales slide: “I wish I knew the answer”</br>世界百科全书销量下滑：“我希望我知道答案。”
 
 WARREN BUFFETT: OK?
 
 AUDIENCE MEMBER: Hi, David Winters, from Mountain Lakes, New Jersey.
 
+股东：嗨，我是大卫·温特斯，来自新泽西州的山地湖泊。
+
 Just wondering, World Book’s had a tough time lately, and I’m wondering if there’s things you’re doing to try to improve that.
 
+我只是想知道，世界百科全书最近过得很艰难，我想知道你是否在做些什么来改善这一点。
+
 And also, The Buffalo News has been fabulous. And I’m kind of wondering what’s driving The Buffalo News?
+
+布法罗新闻也经营的非常棒。我想知道是什么推动了布法罗新闻的发展?
 
 WARREN BUFFETT: Buffalo News is doing what?
 
@@ -2586,23 +2598,39 @@ AUDIENCE MEMBER: Fabulously.
 
 WARREN BUFFETT: Yeah, it’s doing well, right. Well, I would say you got to give credit Stan Lipsey — I’m not sure whether Stan’s here right now, but — who’s been running the News.
 
+巴菲特：是的，布法罗新闻做得很好。好吧，我想说你应该感谢斯坦·利普西——我不确定斯坦现在是否在这里，但是——是谁在主持新闻呀？
+
 World Book, in terms of unit sales — as we put in the report — have fallen off significantly the last few years. It’s actually surprising, in a sense, how well the profits have held up because they’ve done a good job, a very good job, in that respect.
+
+正如我们在报告中所指出的那样，过去几年，世界百科全书的销量大幅下降。从某种意义上说，利润保持得如此之好确实令人惊讶。
 
 And as we put in the report, we don’t know the answer, precisely. We are, Ralph Schey is — has taken some actions — is taking some actions — that he thinks will improve the operations. Ralph’s record as a manager is absolutely at the top of the list. I mean, it — I wrote about it in the 1992 report.
 
+正如我们在报告中所说，我们并不知道造成这种情况的确切的答案。拉尔夫·谢伊已经对此采取了一些行动，他认为这能改善情况。拉尔夫作为经理的记录绝对是非常棒的的。这点我在1992年的报告中写过。
+
 In 1993, Ralph did even better. I mean, it was a — fabulous. I think, probably, may have been 110 or so million pre-tax on 90-some million of average equity capital, or something of the sort. So it’s a fabulous record.
+
+1993年，拉尔夫做得更好。我是说，那真是太棒了。我想，他们大概创造了110万或100万的税前利润，通过90万的平均权益资本。这（ROE）是一个非常棒的记录。
 
 But Encyclopedia Britannica, as you probably know, ran at a loss last year. The encyclopedia business has been very — has been poor. Could be due to electronic competition, could be due to recruiting problems for salespeople. Obviously, it can be a combination of many factors.
 
+如你所知，《大不列颠百科全书》在去年亏损。百科全书的生意一直很差。可能是由于电子领域的竞争，也可能是由于销售人员的招聘问题。显然，它可以是多种因素的组合。
+
 If we knew the answer, we’d have — you wouldn’t be seeing those figures right now. But it is a top item of attention for Ralph. He takes anything that’s not performing as well as before very seriously. And we will see what happens.
 
+如果我们知道答案，我们现在就不会看到这些数据了。但这是拉尔夫最关心的一件事。他对待任何表现不如以前的事情都很认真。让我们看看未来会发生什么。
+
 But I don’t have a prediction on it. I wish I knew the answer. I don’t see any variables to, in any intelligent way, tell you or — we put in the report the best we could do on that.
+
+但我对此没有任何预测。我希望我知道答案。我没有看到任何新的变量——我们已经在报告中加入了我们能做的最好的。
 
 The profitability has, like I say, has been pretty good. But obviously, current trends of new sales will catch up with us at some point, unless we boost unit sales.
 
 I don’t think our market share, if you look at print encyclopedias, has fallen. But I can’t be sure of that, but I think that’s probably true. But there are an awful lot of encyclopedias going out there as part of a bundled product with computer sales.
 
-## 3\. Breaking up Berkshire wouldn’t help
+我认为我们的市场份额，如果你看看纸质百科全书的话，并没有下降。但我不能确定，但我认为这可能是真的。但是有很多百科全书都是和电脑销售捆绑在一起的。
+
+## 3\. Breaking up Berkshire wouldn’t help</br>分拆伯克希尔不会有帮助
 
 WARREN BUFFETT: How are we going to do this, is there?
 
